@@ -27,7 +27,7 @@
     width: 80%;
     margin: auto;
     border: 1px white solid;
-    background:url(../img/showmax\ background.jpeg);
+    background:url(img/showmax\ background.jpeg);
     /* margin-top: 79px; */
     color: white;  
 }
@@ -168,26 +168,26 @@
     height: 150px;
 }
 .col-1{
-    background: url(../img/showmax/1586350411-56_HP_Billboard_1600_x_640_.jpeg) center no-repeat;
+    background: url(img/showmax/1586350411-56_HP_Billboard_1600_x_640_.jpeg) center no-repeat;
     background-size: cover;
 }
 .col-2{
-    background: url(../img/showmax/almost-had-you.jpeg) center no-repeat;
+    background: url(img/showmax/almost-had-you.jpeg) center no-repeat;
     background-size: cover;
 }
 .col-3{
-    background: url(../img/showmax/download.jpeg) center no-repeat;
+    background: url(img/showmax/download.jpeg) center no-repeat;
     background-size: cover;
 }
 .col-4{
-    background: url(../img/showmax/gnafapcfulajgv3r5fe5ff2bfa680f17.jpeg) center no-repeat;
+    background: url(img/showmax/gnafapcfulajgv3r5fe5ff2bfa680f17.jpeg) center no-repeat;
     background-size: cover;
 }
 .col-5{
-    background: url(../img/showmax/HobbsShaw_lg.jpeg) center no-repeat;
+    background: url(img/showmax/HobbsShaw_lg.jpeg) center no-repeat;
     background-size: cover;
 }
 .col-6{
-    background: url(../img/showmax/scream.jpeg) center no-repeat;
+    background: url(img/showmax/scream.jpeg) center no-repeat;
     background-size: cover;
 }
