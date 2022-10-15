@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgb(255, 176, 104)90%, white 10%)
+}
+.text-color{
+    color: purple;
+}
+.nav{
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    height: 79px;
+    position: fixed;
+}
+.home{
+    overflow-y: scroll;
+    height: 500px;
+    width: 80%;
+    margin: auto;
+    border: 1px white solid;
+    background:url(img/showmax\ background.jpeg);
+    /* margin-top: 79px; */
+    color: white;  
+}
+
+.space{
+    height: 100px;
+    width: 100%;
+}
+.nav-top-left{
+    width: 20%;
+}
+.nav-top-right{
+    display: flex;
+    width: 80%;
+}
+.nav-links{
+    display: flex;
+    width: 85%;
+}
+.nav-links ul{
+    width: 55%;
+}
+.nav-links ul a{
+    margin: auto;
+}
+.nav-links select{
+    width: 13%;
+}
+.nav-links form{
+    width: 20%;
+}
+.nav-links form input{
+    width: 150px;
+}
+.user{
+    width: 15%;
+}
+.nav ul{
+    display: flex;
+    list-style: none;
+}
+.m-auto{
+    margin: 0px auto;
+}
+.nav ul a{
+    text-decoration: none;
+    color: white;
+}
+.nav-body{
+    position: fixed;
+    width: 80%;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.828);
+    height: fit-content;
+    padding: 15px 0px;
+    /* border: 1px white solid; */
+}
+.nav-left{
+    width: 40%;
+    margin: auto;
+}
+.nav-left ul{
+    display: flex;
+    list-style: none;
+}
+.nav-left ul a{
+    text-decoration: none;
+    color: white;
+    margin: auto;
+}
+.nav-middle{
+    width: 20%;
+    text-align: center;
+    margin: auto;
+}
+.nav-middle img{
+    height: 40px;
+    margin: auto;
+}
+.nav-right{
+    width: 40%;
+    display: flex;
+    margin: auto;
+}
+#user{
+    margin: 0px auto;
+    width: 22%;
+    text-align: center;
+}
+#kids{
+    margin: 0px auto;
+    width: 16%;
+    text-align: center;
+}
+
+#nav-btn{
+    width: 58%;
+    margin: 0px auto;
+}
+#nav-btn button{
+    margin: auto;
+    width: 50%;
+    float: right;
+    margin-top: 0px;
+    border-radius: 30px;
+    height: 23px;
+    border: 1px solid black;
+}
+
+.nav-right a{
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-right i{
+    margin-right: 5px;
+    font-size: 14px;
+}
+.row{
+    width: 100%;
+    height: fit-content;
+    overflow-x: scroll;
+}
+.col-container{
+    display: flex;
+    /* border: 1px red solid; */
+    width: fit-content;
+}
+.col-container2{
+    display: flex;
+    width: fit-content;
+}
+.col{
+    margin-right: 10px;
+    /* border: 1px red solid; */
+    width: 250px;
+    height: 150px;
+}
+.col-1{
+    background: url(img/showmax/1586350411-56_HP_Billboard_1600_x_640_.jpeg) center no-repeat;
+    background-size: cover;
+}
+.col-2{
+    background: url(img/showmax/almost-had-you.jpeg) center no-repeat;
+    background-size: cover;
+}
+.col-3{
+    background: url(img/showmax/download.jpeg) center no-repeat;
+    background-size: cover;
+}
+.col-4{
+    background: url(img/showmax/gnafapcfulajgv3r5fe5ff2bfa680f17.jpeg) center no-repeat;
+    background-size: cover;
+}
+.col-5{
+    background: url(img/showmax/HobbsShaw_lg.jpeg) center no-repeat;
+    background-size: cover;
+}
+.col-6{
+    background: url(img/showmax/scream.jpeg) center no-repeat;
+    background-size: cover;
+}
